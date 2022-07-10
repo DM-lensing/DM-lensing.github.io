@@ -29,7 +29,7 @@ body {
     justify-content: center;
 }
 
-.links a {
+.knop {
     display: flex;
     justify-content: center;
     background-color: #0C5A23;
